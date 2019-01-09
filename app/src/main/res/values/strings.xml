@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">androidnangcao</string>
+    <string name="btnOpen">Open servie</string>
+    <string name="btnStop">Stop Servie</string>
+</resources>
